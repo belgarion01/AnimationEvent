@@ -1,0 +1,22 @@
+Faire en sorte qu'on puisse preview les animations avec un slider
+	Faire gaffe à l'AnimationMode qui faut désactiver quand il quitte la fenêtre ou qu'il clique sur le boutton
+
+Faire en sorte qu'on puisse Ajouter un Event
+
+Faire en sorte de pouvoir facilement manipuler les events de l'AnimationClip (Les bouger, les delete, voir leur nom). Faire un custom AnimationEvent pour pouvoir get ces datas
+
+Faire en sorte de pouvoir placer ces Event avec précision : Mettre un bouton frame par frame, ptêtre un snap ou pourcentage jsp
+
+------------ STADE l'outil permet de placer et manipuler des fonctions dans l'éditeur facilement
+
+Création des fonctions
+
+	- Fonctions Créeant des VFX
+
+	- Fonctions Appelant des sons
+
+----------- STADE l'outil est en 1.0
+
+Bonus : Création d'une fonction pouvant set une range de valeur dans une range de key frame (Lerp)
+	
+	Exemple : Set les valeurs d'un Shader sur l'animation
